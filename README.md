@@ -2,10 +2,6 @@
 
 In this project, I implemented several different sorting algorithms.
 
-## Tests :heavy_check_mark:
-
-* [tests](./tests): Folder of test files. 
-
 ## Helper Files :raised_hands:
 
 * [print_array.c](./print_array.c): C function that prints an array of integers. 
@@ -85,4 +81,5 @@ typedef struct deck_node_s
   * Always uses the last element of the partition being sorted as the pivot.
   * Prints the array after each swap.
   * [3-O](./3-O): Text file containing the best, average, and worst case time complexities of the Quick Sort Lomuto Partition scheme algorithm, one per line.
-
+## Autors :
+-Alfred GIBEAU--AHOUSSINOU
