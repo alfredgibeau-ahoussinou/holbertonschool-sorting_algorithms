@@ -61,12 +61,6 @@ typedef struct deck_node_s
 } deck_node_t;
 ```
 
-Function Prototype:
-
-| File               | Prototype                             |
-| ------------------ | ------------------------------------- |
-| `1000-deck_node.c` | `void sort_deck(deck_node_t **deck);` |
-
 ## Tasks :page_with_curl:
 
 * **0. Bubble sort**
